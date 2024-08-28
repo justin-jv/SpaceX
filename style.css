@@ -1,0 +1,119 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Verdana, sans-serif;
+}
+body{
+    background-color: black;
+}
+.main-vdo{
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.video{
+    position: relative;
+}
+.logo{
+    position:absolute;
+    top: 0;
+    position: fixed;
+}
+.nav-logo{
+    margin-top: -137px;
+    margin-left: 25px;
+    width: 305px;
+    height: 350px;
+}
+.menu{
+    display: flex;
+    position: absolute;
+    top: 0;
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    font-family:  Arial, Verdana, sans-serif;
+    margin-left: 350px;
+    margin-top: 35px;
+    position: fixed;
+}
+ul a{
+    margin-right: 10px;
+}
+.shop{
+    margin-left: 200px;
+}
+.bar{
+    margin-left: 15px;
+}
+.content{
+    position: absolute;
+    top: 0;
+    color: white;
+    margin-left: 80px;
+    margin-top: 500px;
+    font-size: 20px;
+    line-height: 35px;
+}
+.inner-content1{
+    margin-top: 15px;
+    margin-bottom: 35px;
+}
+.inner-content2{
+    display: inline;
+    padding: 15px;
+    margin-left: 2px;
+    border: 1px solid white;
+}
+.a{
+    width: 100%;
+    height: 750px;
+}
+.page2 .content1{
+    position: absolute;
+    top: 0;
+    color: white;
+    margin-left: 80px;
+    margin-top: 1300px;
+    font-size: 20px;
+    line-height: 35px;
+}
+.page3 .content2{
+    position: absolute;
+    top: 0;
+    color: white;
+    margin-left: 80px;
+    margin-top: 2024px;
+    font-size: 20px;
+    line-height: 35px;
+}
+.page4 .content3{
+    position: absolute;
+    top: 0;
+    color: white;
+    margin-left: 80px;
+    margin-top: 2825px;
+    font-size: 20px;
+    line-height: 35px;
+}
+footer{
+    height: 50px;
+    background-color: black;
+    
+
+}
+footer ul{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-size: 12px;
+}
+.footer-content{
+    margin-left: 35px;
+}
+.rules{
+    font-style: bold;
+}
